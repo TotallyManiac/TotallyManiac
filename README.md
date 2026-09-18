@@ -37,21 +37,14 @@ Building intelligent systems where software meets the physical world.
 
 <img src="assets/card-quantum.svg" width="100%" alt="Bloch sphere with a single-qubit state vector">
 
-**01 · Interactive Bloch Sphere Simulator**
-<sub>Electrical Engineering Honours thesis</sub>
-
+**01 · Interactive Bloch Sphere Simulator** <sub>— Electrical Engineering Honours thesis</sub>
 `HONOURS THESIS · IN PROGRESS`
 
 An interactive simulator for single-qubit states and driven quantum dynamics, visualised on the Bloch sphere.
 
-**Working on**
-- single-qubit states & Bloch sphere representation
-- quantum gates & Hamiltonian evolution
-- density matrices, Rabi-driven dynamics
+**Working on** single-qubit states & Bloch sphere representation · quantum gates & Hamiltonian evolution · density matrices, Rabi-driven dynamics
 
-**Next**
-- open-system dynamics — relaxation & dephasing
-- full interactive visualisation layer
+<sub>**Next** — open-system dynamics (relaxation & dephasing), full interactive visualisation layer</sub>
 
 `Python` `NumPy` `SciPy` `Matplotlib` `Streamlit`
 
@@ -59,20 +52,14 @@ An interactive simulator for single-qubit states and driven quantum dynamics, vi
 
 <img src="assets/card-cells.svg" width="100%" alt="Microscopy cells with one segmentation contour highlighted">
 
-**02 · Cell Annotator**
-<sub>University software engineering project</sub>
-
+**02 · Cell Annotator** <sub>— University software engineering project</sub>
 `COURSE PROJECT · IN PROGRESS`
 
 A human-in-the-loop platform for cell segmentation and AI-assisted model training on whole-slide pathology images.
 
-**Working on**
-- AI-assisted cell segmentation
-- editable, human-in-the-loop prediction workflow
-- local deployment & model selection/upload
+**Working on** AI-assisted cell segmentation · editable, human-in-the-loop prediction workflow · local deployment & model selection/upload
 
-**Next**
-- broader deep-learning model support
+<sub>**Next** — broader deep-learning model support</sub>
 
 `PyTorch` `MONAI` `SegResNet` `nnU-Net` `SwinUNETR` `Flask` `React`
 
@@ -85,50 +72,27 @@ A human-in-the-loop platform for cell segmentation and AI-assisted model trainin
 
 <img src="assets/divider.svg" width="140" height="2" alt="">
 
+<sub>The Bloch sphere simulator and Cell Annotator are covered above in `currently_building` — this section is everything else.</sub>
+
 <table>
-<tr>
-<td width="15%" align="center" valign="top"><img src="assets/mark-quantum.svg" alt=""></td>
-<td valign="top">
+<tr><td width="12%" align="center" valign="top"><img src="assets/mark-mri.svg" alt=""></td><td width="38%" valign="top">
 
-**Interactive Bloch Sphere Simulator** — <sub>Research · Quantum Systems · Scientific Computing</sub>
-Visualising single-qubit states and gate/Hamiltonian dynamics on the Bloch sphere. *In progress — see `currently_building`.*
-`Python` `NumPy` `SciPy` `Streamlit`
-
-</td>
-</tr>
-<tr>
-<td width="15%" align="center" valign="top"><img src="assets/mark-cells.svg" alt=""></td>
-<td valign="top">
-
-**Cell Annotator** — <sub>Computer Vision · Deep Learning · Software Engineering</sub>
-Human-in-the-loop cell segmentation with editable AI predictions for digital pathology. *In progress — see `currently_building`.*
-`PyTorch` `MONAI` `Flask` `React`
-
-</td>
-</tr>
-<tr>
-<td width="15%" align="center" valign="top"><img src="assets/mark-mri.svg" alt=""></td>
-<td valign="top">
-
-**Alzheimer's MRI Classification** — <sub>Medical Imaging · Signal Processing · Machine Learning</sub>
-End-to-end pipeline — skull stripping, affine/non-linear registration, AAL ROI extraction — feeding an RBF SVM classifier for AD/NC prediction.
+**Alzheimer's MRI Classification**
+<sub>Medical Imaging · Signal Processing · Machine Learning</sub>
+End-to-end pipeline — skull stripping, registration, AAL ROI extraction — feeding an RBF SVM classifier for AD/NC prediction.
 `Python` `FSL` `NiftyReg` `scikit-learn`
 
-</td>
-</tr>
-<tr>
-<td width="15%" align="center" valign="top"><img src="assets/mark-fan.svg" alt=""></td>
-<td valign="top">
+</td><td width="12%" align="center" valign="top"><img src="assets/mark-fan.svg" alt=""></td><td width="38%" valign="top">
 
-**High-Speed Fan Diagnostics** — Nanosonics — <sub>Electrical Engineering · Signal Processing · Embedded Systems</sub>
-Detection system for underperforming high-speed fans (~33,000 RPM): Hall-effect/tachometer sensing, RC filtering, frequency analysis — validated live at a trade-show demo.
+**High-Speed Fan Diagnostics** <sub>— Nanosonics</sub>
+<sub>Electrical Engineering · Signal Processing · Embedded Systems</sub>
+Detection of underperforming high-speed fans (~33,000 RPM): Hall-effect/tachometer sensing, RC filtering, frequency analysis — validated live at a trade-show demo.
 `Sensing` `Filtering` `Embedded Systems`
 
-</td>
-</tr>
+</td></tr>
 </table>
 
-Also: **[Diabetes Risk Predictor](https://github.com/TotallyManiac/diabetes-2-risk-predictor)** — Random Forest classifier for Type 2 diabetes risk with SHAP-based explainability → [live demo](https://diabetes2predictorprototype.netlify.app)
+<sub>**Diabetes Risk Predictor** — Random Forest classifier for Type 2 diabetes risk with SHAP-based explainability → [repository](https://github.com/TotallyManiac/diabetes-2-risk-predictor) · [live demo](https://diabetes2predictorprototype.netlify.app)</sub>
 
 <br>
 
@@ -137,10 +101,14 @@ Also: **[Diabetes Risk Predictor](https://github.com/TotallyManiac/diabetes-2-ri
 <img src="assets/divider.svg" width="140" height="2" alt="">
 
 <table>
-<tr><td><img src="assets/icons/lang.svg" width="20" height="20" alt=""></td><td><b>Languages</b><br>Python · C · Java · MATLAB · R · SQL</td></tr>
-<tr><td><img src="assets/icons/aiml.svg" width="20" height="20" alt=""></td><td><b>AI / ML / Vision</b><br>PyTorch · scikit-learn · OpenCV · MONAI</td></tr>
-<tr><td><img src="assets/icons/sci.svg" width="20" height="20" alt=""></td><td><b>Scientific / Engineering</b><br>NumPy · SciPy · MATLAB · P4 · Mininet</td></tr>
-<tr><td><img src="assets/icons/web.svg" width="20" height="20" alt=""></td><td><b>Software / Web</b><br>React · Flask · Git · GitHub · Docker</td></tr>
+<tr>
+<td valign="top"><img src="assets/icons/lang.svg" width="20" height="20" alt=""><br><b>Languages</b><br>Python · C · Java · MATLAB · R · SQL</td>
+<td valign="top"><img src="assets/icons/aiml.svg" width="20" height="20" alt=""><br><b>AI / ML / Vision</b><br>PyTorch · scikit-learn · OpenCV · MONAI</td>
+</tr>
+<tr>
+<td valign="top"><img src="assets/icons/sci.svg" width="20" height="20" alt=""><br><b>Scientific / Engineering</b><br>NumPy · SciPy · MATLAB · P4 · Mininet</td>
+<td valign="top"><img src="assets/icons/web.svg" width="20" height="20" alt=""><br><b>Software / Web</b><br>React · Flask · Git · GitHub · Docker</td>
+</tr>
 </table>
 
 <br>
@@ -162,9 +130,16 @@ Also: **[Diabetes Risk Predictor](https://github.com/TotallyManiac/diabetes-2-ri
 
 <img src="assets/divider.svg" width="140" height="2" alt="">
 
-⚡ **Electrical engineering** — signals · sensing · electronics · systems
-🧑‍🏫 **Teaching** — programming tutor (Girls Programming Network) · engineering peer mentor (USYD)
-🔬 **Research & mentoring** — quantum systems · BIOTech Futures team mentor
+⚡ **Electrical Engineering**
+<sub>signals · sensing · electronics · systems</sub>
+
+🧑‍🏫 **Teaching**
+<sub>programming tutor (Girls Programming Network) · engineering peer mentor (USYD)</sub>
+
+🔬 **Research & Mentoring**
+<sub>quantum systems · BIOTech Futures team mentor</sub>
+
+<br>
 
 <sub>*quietly convinced every good system is one part physics, one part stubbornness.*</sub>
 

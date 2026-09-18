@@ -10,8 +10,24 @@
     </radialGradient>
   </defs>
 
+  <style>
+    .fade-in { animation: heroFade 1.6s ease-out both; }
+    .twinkle-a { animation: twinkle 3.4s ease-in-out infinite; }
+    .twinkle-b { animation: twinkle 4.1s ease-in-out infinite; animation-delay: 1.3s; }
+    .pulse-dot { transform-box: fill-box; transform-origin: center; animation: pulse 2.8s ease-in-out infinite; }
+    @keyframes heroFade { from { opacity: 0; } to { opacity: 1; } }
+    @keyframes twinkle { 0%, 100% { opacity: 0.3; } 50% { opacity: 0.85; } }
+    @keyframes pulse { 0%, 100% { transform: scale(1); opacity: 0.9; } 50% { transform: scale(1.5); opacity: 1; } }
+    @media (prefers-reduced-motion: reduce) {
+      .fade-in, .twinkle-a, .twinkle-b, .pulse-dot { animation: none !important; opacity: 1; }
+    }
+  </style>
+
   <rect width="1200" height="420" fill="url(#bgGrad)"/>
   <rect width="1200" height="420" fill="url(#glow)"/>
+
+  <g class="fade-in">
+
   <rect x="10" y="10" width="1180" height="400" fill="none" stroke="#4D3450" stroke-width="1" opacity="0.4"/>
 
   <!-- orbital / bloch-sphere geometry, drifting behind the typography -->
@@ -26,19 +42,19 @@
 
   <!-- state vector -->
   <line x1="780" y1="215" x2="944" y2="90" stroke="#7A2438" stroke-width="1.5" opacity="0.85"/>
-  <circle cx="944" cy="90" r="3.4" fill="#7A2438"/>
+  <circle class="pulse-dot" cx="944" cy="90" r="3.4" fill="#7A2438"/>
   <circle cx="780" cy="215" r="2.6" fill="#B3A7C7"/>
   <text x="954" y="86" font-family="SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#C98FA0" opacity="0.75">|ψ&gt;</text>
   <text x="828" y="150" font-family="SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#B3A7C7" opacity="0.55">θ</text>
   <text x="700" y="195" font-family="SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#B3A7C7" opacity="0.5">φ</text>
 
   <!-- faint reference nodes scattered in negative space -->
-  <g fill="#B3A7C7" opacity="0.45">
-    <circle cx="1120" cy="60" r="1.4"/>
-    <circle cx="1080" cy="340" r="1.4"/>
-    <circle cx="600" cy="70" r="1.4"/>
-    <circle cx="360" cy="150" r="1.4"/>
-    <circle cx="990" cy="360" r="1.4"/>
+  <g fill="#B3A7C7">
+    <circle class="twinkle-a" cx="1120" cy="60" r="1.4"/>
+    <circle opacity="0.45" cx="1080" cy="340" r="1.4"/>
+    <circle class="twinkle-b" cx="600" cy="70" r="1.4"/>
+    <circle opacity="0.45" cx="360" cy="150" r="1.4"/>
+    <circle opacity="0.45" cx="990" cy="360" r="1.4"/>
   </g>
 
   <!-- coordinate ticks, lower edge -->
@@ -70,4 +86,6 @@
   <text x="66" y="196" font-family="Georgia, 'Iowan Old Style', 'Times New Roman', serif" font-size="62" fill="#F0E6D6">GAURI SHARMA</text>
   <text x="68" y="230" font-family="SFMono-Regular, Menlo, Consolas, monospace" font-size="16" letter-spacing="3" fill="#B3A7C7">ELECTRICAL ENGINEERING × COMPUTER SCIENCE</text>
   <text x="68" y="262" font-family="Georgia, 'Iowan Old Style', 'Times New Roman', serif" font-style="italic" font-size="15" fill="#C98FA0">signals · intelligent systems · computer vision · quantum systems</text>
+
+  </g>
 </svg>
