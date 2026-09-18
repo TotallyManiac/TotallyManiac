@@ -1,15 +1,19 @@
-<table>
-<tr>
-
-<td width="75%" valign="middle">
-
 <div align="center">
 
 <img src="assets/hero.svg" width="100%" alt="Gauri Sharma — Electrical Engineering × Computer Science. Signals, intelligent systems, computer vision, quantum systems.">
 
 <code>currently exploring → quantum systems</code> <img src="assets/cursor-blink.svg" width="9" height="15" alt="">
 
-<br><br>
+</div>
+
+<br>
+
+<img src="assets/cute_mage.gif"
+     width="170"
+     align="right"
+     alt="Animated mage character">
+
+<br>
 
 [**Portfolio**](https://totallymaniac.github.io/gauri-portfolio/) &nbsp;·&nbsp; [**Résumé**](https://totallymaniac.github.io/gauri-portfolio/Gauri-Sharma-Resume.pdf) &nbsp;·&nbsp; [**LinkedIn**](https://www.linkedin.com/in/gauri-sharma-6b501325b/) &nbsp;·&nbsp; [**Email**](mailto:gstechland100@gmail.com)
 
@@ -17,18 +21,7 @@
 
 <sub>This README is the quick version. My portfolio is the fun version →</sub>
 
-</div>
-
-</td>
-
-<td width="25%" align="center" valign="middle">
-
-<img src="assets/cute_mage.gif" width="175" alt="Animated mage character">
-
-</td>
-
-</tr>
-</table>
+<br clear="right">
 
 </div>
 
