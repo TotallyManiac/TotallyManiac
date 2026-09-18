@@ -31,7 +31,7 @@
 
 Final-year student at the **University of Sydney**, completing a **Bachelor of Engineering (Honours) — Electrical Engineering** alongside a **Bachelor of Science — Computer Science**. I work in the space where a signal becomes data, and data becomes a decision.
 
-<p align="center"><img src="assets/diagram-whoami.svg" width="600" alt="Software disciplines and hardware disciplines converging into intelligent systems"></p>
+<p align="center"><img src="assets/diagram-whoami.svg" width="800" alt="Software disciplines and hardware disciplines converging into intelligent systems"></p>
 
 Building intelligent systems where software meets the physical world.
 
