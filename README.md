@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero.svg" width="100%" alt="Gauri Sharma — Electrical Engineering × Computer Science. Signals, intelligent systems, computer vision, quantum systems.">
+<img src="assets/hero.svg" width="1000" alt="Gauri Sharma — Electrical Engineering × Computer Science. Signals, intelligent systems, computer vision, quantum systems.">
 
 <code>currently exploring → quantum systems</code> <img src="assets/cursor-blink.svg" width="9" height="15" alt="">
 
@@ -172,7 +172,7 @@ Detection of underperforming high-speed fans (~33,000 RPM): Hall-effect/tachomet
 
 <br>
 
-<sub>*quietly convinced every good system is one part physics, one part stubbornness.*</sub>
+<sub>*Quietly convinced every good system is one part physics, one part stubbornness.*</sub>
 
 <br>
 
@@ -184,6 +184,6 @@ Detection of underperforming high-speed fans (~33,000 RPM): Hall-effect/tachomet
 
 <img src="assets/footer-mark.svg" width="120" height="40" alt="">
 
-<sub>built by hand, updated when there's something worth logging.</sub>
+<sub>Built by hand, updated when there's something worth logging.</sub>
 
 </div>
