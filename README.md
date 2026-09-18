@@ -13,7 +13,7 @@
 <br>
 
 <img src="assets/cute_mage.gif"
-     width="280"
+     width="260"
      align="right"
      alt="Animated mage character">
 
@@ -23,7 +23,7 @@
 
 <br>
 
-<img src="assets/headings/h01.svg" width="130" height="30" alt="01 / Profile">
+<img src="assets/headings/h01.svg" width="150" height="50" alt="01 / Profile">
 
 ## Who I am
 
