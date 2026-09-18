@@ -17,18 +17,6 @@
      align="right"
      alt="Animated mage character">
 
-<br><br>
-<br><br>
-
-<sub>This README is the quick version. My portfolio is the fun version →</sub>
-
-</div>
-
-<br><br>
-
-<br clear="right">
-
-</div>
 
 <br>
 
