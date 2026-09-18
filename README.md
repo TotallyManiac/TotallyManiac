@@ -46,7 +46,7 @@ Building intelligent systems where software meets the physical world.
 <table>
 <tr><td width="50%" valign="top">
 
-<img src="assets/card-quantum.svg" width="100%" alt="Bloch sphere with a single-qubit state vector">
+<img src="assets/card-quantum.svg" width="150%" alt="Bloch sphere with a single-qubit state vector">
 
 **01 · Interactive Bloch Sphere Simulator** <sub>— Electrical Engineering Honours thesis</sub>
 `HONOURS THESIS · IN PROGRESS`
@@ -61,7 +61,7 @@ An interactive simulator for single-qubit states and driven quantum dynamics, vi
 
 </td><td width="50%" valign="top">
 
-<img src="assets/card-cells.svg" width="100%" alt="Microscopy cells with one segmentation contour highlighted">
+<img src="assets/card-cells.svg" width="150%" alt="Microscopy cells with one segmentation contour highlighted">
 
 **02 · Cell Annotator** <sub>— University software engineering project</sub>
 `COURSE PROJECT · IN PROGRESS`
