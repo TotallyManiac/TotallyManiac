@@ -5,13 +5,11 @@
 <code>currently exploring → quantum systems</code> <img src="assets/cursor-blink.svg" width="9" height="15" alt="">
 
 </div>
-<br><br>
+<br>
 
-<div align="right">
+<div align="center">
 
 [**Portfolio**](https://totallymaniac.github.io/gauri-portfolio/) &nbsp;·&nbsp; [**Résumé**](https://totallymaniac.github.io/gauri-portfolio/Gauri-Sharma-Resume.pdf) &nbsp;·&nbsp; [**LinkedIn**](https://www.linkedin.com/in/gauri-sharma-6b501325b/) &nbsp;·&nbsp; [**Email**](mailto:gstechland100@gmail.com)
-
-<br><br>
 <br>
 
 <img src="assets/cute_mage.gif"
