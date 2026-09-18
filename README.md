@@ -17,6 +17,7 @@
      align="right"
      alt="Animated mage character">
 
+<br><br>
 
 </div>
 
