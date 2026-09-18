@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72" width="56" height="56" role="img" aria-label="Quantum systems">
+  <circle cx="36" cy="36" r="33" fill="#160E17" stroke="#4D3450" stroke-width="1"/>
+  <circle cx="36" cy="36" r="15" fill="none" stroke="#B3A7C7" stroke-width="0.9" opacity="0.7"/>
+  <ellipse cx="36" cy="36" rx="15" ry="5" fill="none" stroke="#B3A7C7" stroke-width="0.8" opacity="0.55"/>
+  <line x1="36" y1="36" x2="48" y2="22" stroke="#7A2438" stroke-width="1.4"/>
+  <circle cx="48" cy="22" r="2" fill="#7A2438"/>
+</svg>

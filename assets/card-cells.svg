@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 200" width="380" height="200" role="img" aria-label="Microscopy cells with one segmentation contour highlighted">
+  <defs>
+    <linearGradient id="cBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1C1A1F"/>
+      <stop offset="100%" stop-color="#160E17"/>
+    </linearGradient>
+  </defs>
+  <rect width="380" height="200" fill="url(#cBg)"/>
+  <rect x="6" y="6" width="368" height="188" fill="none" stroke="#4D3450" stroke-width="1" opacity="0.4"/>
+
+  <text x="16" y="24" font-family="SFMono-Regular, Menlo, Consolas, monospace" font-size="10" letter-spacing="1.5" fill="#B3A7C7" opacity="0.65">FIG. 03</text>
+  <text x="364" y="186" text-anchor="end" font-family="SFMono-Regular, Menlo, Consolas, monospace" font-size="10" letter-spacing="1.5" fill="#B3A7C7" opacity="0.65">CELL SEGMENTATION</text>
+
+  <!-- unlabelled cells -->
+  <g fill="#4D3450" fill-opacity="0.35" stroke="#B3A7C7" stroke-width="0.8" opacity="0.75">
+    <path d="M74,78 C73,60 90,55 100,52 C112,55 128,62 126,78 C127,92 112,102 100,104 C86,103 75,94 74,78 Z"/>
+    <path d="M228,70 C227,56 240,50 250,49 C261,51 273,58 272,70 C273,82 261,90 250,91 C239,90 229,82 228,70 Z"/>
+    <path d="M266,135 C265,120 278,113 290,112 C302,114 315,122 314,135 C315,148 302,157 290,158 C277,157 267,149 266,135 Z"/>
+    <path d="M316,95 C315,87 323,83 330,83 C337,84 345,88 344,95 C345,102 337,107 330,108 C322,107 317,102 316,95 Z"/>
+  </g>
+
+  <!-- the cell under active segmentation -->
+  <path d="M138,132 C136,112 155,104 168,102 C183,105 200,114 198,132 C199,148 182,160 168,162 C152,161 139,150 138,132 Z"
+        fill="#5C1F28" fill-opacity="0.32" stroke="#C98FA0" stroke-width="0.9" opacity="0.85"/>
+  <path d="M130,132 C128,108 152,96 168,94 C186,98 207,110 205,132 C206,152 184,168 168,170 C149,169 133,156 130,132 Z"
+        fill="none" stroke="#7A2438" stroke-width="1.1" stroke-dasharray="3,3" opacity="0.85"/>
+
+  <!-- annotation handles: human-in-the-loop editing -->
+  <g stroke="#B3A7C7" stroke-width="1.1" opacity="0.8">
+    <path d="M128,102 L128,92 L138,92" fill="none"/>
+    <path d="M197,92 L207,92 L207,102" fill="none"/>
+    <path d="M128,162 L128,172 L138,172" fill="none"/>
+    <path d="M197,172 L207,172 L207,162" fill="none"/>
+  </g>
+</svg>

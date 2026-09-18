@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 300" width="700" height="300" role="img" aria-label="Software disciplines and hardware disciplines converging into intelligent systems">
+  <defs>
+    <linearGradient id="whoamiBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1C1A1F"/>
+      <stop offset="100%" stop-color="#160E17"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="700" height="300" fill="url(#whoamiBg)"/>
+  <rect x="8" y="8" width="684" height="284" fill="none" stroke="#4D3450" stroke-width="1" opacity="0.4"/>
+
+  <text x="80" y="45" font-family="SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="2" fill="#B3A7C7">SOFTWARE</text>
+  <text x="620" y="45" text-anchor="end" font-family="SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="2" fill="#C98FA0">HARDWARE</text>
+
+  <!-- software side -->
+  <g>
+    <circle cx="80" cy="93" r="2.6" fill="#B3A7C7"/>
+    <circle cx="80" cy="128" r="2.6" fill="#B3A7C7"/>
+    <circle cx="80" cy="163" r="2.6" fill="#B3A7C7"/>
+    <text x="98" y="97" font-family="SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#F0E6D6">AI / ML</text>
+    <text x="98" y="132" font-family="SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#F0E6D6">Computer Vision</text>
+    <text x="98" y="167" font-family="SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#F0E6D6">Software Engineering</text>
+  </g>
+
+  <!-- hardware side -->
+  <g>
+    <circle cx="620" cy="93" r="2.6" fill="#C98FA0"/>
+    <circle cx="620" cy="128" r="2.6" fill="#C98FA0"/>
+    <circle cx="620" cy="163" r="2.6" fill="#C98FA0"/>
+    <text x="602" y="97" text-anchor="end" font-family="SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#F0E6D6">Signals</text>
+    <text x="602" y="132" text-anchor="end" font-family="SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#F0E6D6">Electronics</text>
+    <text x="602" y="167" text-anchor="end" font-family="SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#F0E6D6">Sensing</text>
+  </g>
+
+  <!-- converging signal lines -->
+  <g fill="none" stroke="#4D3450" stroke-width="1.1" opacity="0.65">
+    <path d="M 84 93 C 200 100 280 170 344 231"/>
+    <path d="M 84 128 C 200 140 290 190 346 233"/>
+    <path d="M 84 163 C 220 190 300 215 348 235"/>
+  </g>
+  <g fill="none" stroke="#7A2438" stroke-width="1.1" opacity="0.65">
+    <path d="M 616 93 C 500 100 420 170 356 231"/>
+    <path d="M 616 128 C 500 140 410 190 354 233"/>
+    <path d="M 616 163 C 480 190 400 215 352 235"/>
+  </g>
+
+  <!-- convergence node -->
+  <circle cx="350" cy="235" r="15" fill="#160E17" stroke="#5C1F28" stroke-width="1.5"/>
+  <circle cx="350" cy="235" r="3" fill="#F0E6D6"/>
+  <line x1="350" y1="251" x2="350" y2="266" stroke="#5C1F28" stroke-width="1.1"/>
+  <text x="350" y="284" text-anchor="middle" font-family="SFMono-Regular, Menlo, Consolas, monospace" font-size="13.5" letter-spacing="2" fill="#F0E6D6">INTELLIGENT SYSTEMS</text>
+</svg>
