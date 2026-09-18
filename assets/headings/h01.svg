@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="130" height="30" viewBox="0 0 130 30" role="img" aria-label="01, Profile">
+  <text x="0" y="22" font-family="SFMono-Regular, Menlo, Consolas, monospace" font-size="22" fill="#7A2438">01</text>
+  <circle cx="36" cy="15" r="1.8" fill="#B3A7C7" opacity="0.55"/>
+  <text x="44" y="20" font-family="SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="2.5" fill="#B3A7C7">PROFILE</text>
+</svg>

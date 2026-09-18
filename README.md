@@ -1,5 +1,3 @@
-<!-- LinkedIn: no URL on file yet. Replace the muted "LinkedIn" markers below once you have one. -->
-
 <div align="center">
 
 <img src="assets/hero.svg" width="100%" alt="Gauri Sharma — Electrical Engineering × Computer Science. Signals, intelligent systems, computer vision, quantum systems.">
@@ -8,7 +6,7 @@
 
 <br>
 
-[**Portfolio**](https://totallymaniac.github.io/gauri-portfolio/) &nbsp;·&nbsp; [**Résumé**](https://totallymaniac.github.io/gauri-portfolio/Gauri-Sharma-Resume.pdf) &nbsp;·&nbsp; <sub>LinkedIn</sub> &nbsp;·&nbsp; [**Email**](mailto:gstechland100@gmail.com)
+[**Portfolio**](https://totallymaniac.github.io/gauri-portfolio/) &nbsp;·&nbsp; [**Résumé**](https://totallymaniac.github.io/gauri-portfolio/Gauri-Sharma-Resume.pdf) &nbsp;·&nbsp; [**LinkedIn**](https://www.linkedin.com/in/gauri-sharma-6b501325b/) &nbsp;·&nbsp; [**Email**](mailto:gstechland100@gmail.com)
 
 <sub>This README is the quick version. My portfolio is the fun version →</sub>
 
@@ -16,7 +14,9 @@
 
 <br>
 
-## `01 // whoami`
+<img src="assets/headings/h01.svg" width="130" height="30" alt="01 / Profile">
+
+## Who I am
 
 <img src="assets/divider.svg" width="140" height="2" alt="">
 
@@ -28,7 +28,9 @@ Building intelligent systems where software meets the physical world.
 
 <br>
 
-## `02 // currently_building`
+<img src="assets/headings/h02.svg" width="400" height="30" alt="02 / Active research and development">
+
+## Currently building
 
 <img src="assets/divider.svg" width="140" height="2" alt="">
 
@@ -68,11 +70,27 @@ A human-in-the-loop platform for cell segmentation and AI-assisted model trainin
 
 <br>
 
-## `03 // selected_work`
+<img src="assets/headings/h03.svg" width="220" height="30" alt="03 / Selected work">
+
+## Projects & case studies
 
 <img src="assets/divider.svg" width="140" height="2" alt="">
 
 <sub>The Bloch sphere simulator and Cell Annotator are covered above in `currently_building` — this section is everything else.</sub>
+
+<sub>**FEATURED WORK**</sub>
+
+<img src="assets/card-diabetes.svg" width="100%" alt="Decision-tree classification and SHAP feature contribution chart">
+
+**Diabetes Risk Predictor** <sub>— AI · Data · Explainable ML</sub>
+
+A complete health-data ML workflow: data cleaning and preprocessing, Random Forest classification, and SHAP-based explainability, wrapped in a usable interactive risk-prediction interface.
+
+`Python` `Random Forest` `SHAP` `scikit-learn`
+
+[**Repository →**](https://github.com/TotallyManiac/diabetes-2-risk-predictor) &nbsp;·&nbsp; [**Live Demo →**](https://diabetes2predictorprototype.netlify.app)
+
+<br>
 
 <table>
 <tr><td width="12%" align="center" valign="top"><img src="assets/mark-mri.svg" alt=""></td><td width="38%" valign="top">
@@ -92,11 +110,11 @@ Detection of underperforming high-speed fans (~33,000 RPM): Hall-effect/tachomet
 </td></tr>
 </table>
 
-<sub>**Diabetes Risk Predictor** — Random Forest classifier for Type 2 diabetes risk with SHAP-based explainability → [repository](https://github.com/TotallyManiac/diabetes-2-risk-predictor) · [live demo](https://diabetes2predictorprototype.netlify.app)</sub>
-
 <br>
 
-## `04 // toolkit`
+<img src="assets/headings/h04.svg" width="265" height="30" alt="04 / Technical toolkit">
+
+## Languages · frameworks · engineering
 
 <img src="assets/divider.svg" width="140" height="2" alt="">
 
@@ -113,7 +131,9 @@ Detection of underperforming high-speed fans (~33,000 RPM): Hall-effect/tachomet
 
 <br>
 
-## `05 // engineering.log`
+<img src="assets/headings/h05.svg" width="245" height="30" alt="05 / Engineering log">
+
+## Recent work
 
 <img src="assets/divider.svg" width="140" height="2" alt="">
 
@@ -126,7 +146,9 @@ Detection of underperforming high-speed fans (~33,000 RPM): Hall-effect/tachomet
 
 <br>
 
-## `06 // beyond_the_code`
+<img src="assets/headings/h06.svg" width="245" height="30" alt="06 / Beyond the code">
+
+## Teaching · mentoring · interests
 
 <img src="assets/divider.svg" width="140" height="2" alt="">
 
@@ -147,9 +169,9 @@ Detection of underperforming high-speed fans (~33,000 RPM): Hall-effect/tachomet
 
 <div align="center">
 
-## `./connect`
+### Connect
 
-[Portfolio](https://totallymaniac.github.io/gauri-portfolio/) &nbsp;·&nbsp; <sub>LinkedIn</sub> &nbsp;·&nbsp; [GitHub](https://github.com/TotallyManiac) &nbsp;·&nbsp; [Email](mailto:gstechland100@gmail.com)
+[Portfolio](https://totallymaniac.github.io/gauri-portfolio/) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/gauri-sharma-6b501325b/) &nbsp;·&nbsp; [GitHub](https://github.com/TotallyManiac) &nbsp;·&nbsp; [Email](mailto:gstechland100@gmail.com)
 
 <img src="assets/footer-mark.svg" width="120" height="40" alt="">
 
