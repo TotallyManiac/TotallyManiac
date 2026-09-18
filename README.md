@@ -13,7 +13,7 @@
 <br>
 
 <img src="assets/cute_mage.gif"
-     width="300"
+     width="280"
      align="right"
      alt="Animated mage character">
 
