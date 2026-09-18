@@ -18,6 +18,8 @@
      alt="Animated mage character">
 
 
+</div>
+
 <br>
 
 <img src="assets/headings/h01.svg" width="130" height="30" alt="01 / Profile">
