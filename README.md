@@ -172,7 +172,7 @@ Detection of underperforming high-speed fans (~33,000 RPM): Hall-effect/tachomet
 
 <br>
 
-<sub>*quietly convinced every good system is one part physics, one part stubbornness.*</sub>
+<sub>*quietly convinced every good system is one part physics, one part stubbornness.*&fontSize=20</sub>
 
 <br>
 
