@@ -9,17 +9,23 @@
 <br>
 
 <img src="assets/cute_mage.gif"
-     width="170"
+     width="220"
      align="right"
      alt="Animated mage character">
 
-<br>
+<br><br>
+
+<div align="center">
 
 [**Portfolio**](https://totallymaniac.github.io/gauri-portfolio/) &nbsp;·&nbsp; [**Résumé**](https://totallymaniac.github.io/gauri-portfolio/Gauri-Sharma-Resume.pdf) &nbsp;·&nbsp; [**LinkedIn**](https://www.linkedin.com/in/gauri-sharma-6b501325b/) &nbsp;·&nbsp; [**Email**](mailto:gstechland100@gmail.com)
 
-<br>
+<br><br>
 
 <sub>This README is the quick version. My portfolio is the fun version →</sub>
+
+</div>
+
+<br><br>
 
 <br clear="right">
 
