@@ -10,6 +10,16 @@
 
 <sub>This README is the quick version. My portfolio is the fun version →</sub>
 
+</td>
+
+<td width="25%" align="center" valign="middle">
+
+<img src="assets/cute_mage.gif" width="160" alt="Animated mage character">
+
+</td>
+</tr>
+</table>
+
 </div>
 
 <br>
@@ -147,39 +157,25 @@ Detection of underperforming high-speed fans (~33,000 RPM): Hall-effect/tachomet
 <br>
 
 <img src="assets/headings/h06.svg" width="245" height="30" alt="06 / Beyond the code">
-<img src="assets/cute_mage.gif" width="150" alt="Animated wizard character">
 
 ## Teaching · mentoring · interests
 
-<table>
-<tr>
-<td width="75%" valign="top">
+<img src="assets/divider.svg" width="140" height="2" alt="">
 
-### ELECTRICAL ENGINEERING
+⚡ **Electrical Engineering**
+<sub>signals · sensing · electronics · systems</sub>
 
-signals · sensing · electronics · systems
+🧑‍🏫 **Teaching**
+<sub>programming tutor (Girls Programming Network) · engineering peer mentor (USYD)</sub>
 
-### TEACHING
-
-programming tutor · engineering peer mentor
-
-### RESEARCH & MENTORING
-
-quantum systems · BIOTech Futures team mentor
+🔬 **Research & Mentoring**
+<sub>quantum systems · BIOTech Futures team mentor</sub>
 
 <br>
 
-<i>quietly convinced every good system is one part physics, one part stubbornness.</i>
+<sub>*quietly convinced every good system is one part physics, one part stubbornness.*</sub>
 
-</td>
-
-<td width="25%" align="center" valign="middle">
-
-<img src="assets/wizard.gif" width="160" alt="Animated wizard character">
-
-</td>
-</tr>
-</table>
+<br>
 
 <div align="center">
 
