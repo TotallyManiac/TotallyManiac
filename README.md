@@ -147,25 +147,39 @@ Detection of underperforming high-speed fans (~33,000 RPM): Hall-effect/tachomet
 <br>
 
 <img src="assets/headings/h06.svg" width="245" height="30" alt="06 / Beyond the code">
+<img src="assets/cute_mage.gif" width="150" alt="Animated wizard character">
 
 ## Teaching · mentoring · interests
 
-<img src="assets/divider.svg" width="140" height="2" alt="">
+<table>
+<tr>
+<td width="75%" valign="top">
 
-⚡ **Electrical Engineering**
-<sub>signals · sensing · electronics · systems</sub>
+### ELECTRICAL ENGINEERING
 
-🧑‍🏫 **Teaching**
-<sub>programming tutor (Girls Programming Network) · engineering peer mentor (USYD)</sub>
+signals · sensing · electronics · systems
 
-🔬 **Research & Mentoring**
-<sub>quantum systems · BIOTech Futures team mentor</sub>
+### TEACHING
+
+programming tutor · engineering peer mentor
+
+### RESEARCH & MENTORING
+
+quantum systems · BIOTech Futures team mentor
 
 <br>
 
-<sub>*quietly convinced every good system is one part physics, one part stubbornness.*</sub>
+<i>quietly convinced every good system is one part physics, one part stubbornness.</i>
 
-<br>
+</td>
+
+<td width="25%" align="center" valign="middle">
+
+<img src="assets/wizard.gif" width="160" alt="Animated wizard character">
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
