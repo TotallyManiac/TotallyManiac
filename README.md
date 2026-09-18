@@ -89,7 +89,7 @@ A human-in-the-loop platform for cell segmentation and AI-assisted model trainin
 
 <sub>**FEATURED WORK**</sub>
 
-<img src="assets/card-diabetes.svg" width="100%" alt="Decision-tree classification and SHAP feature contribution chart">
+<img src="assets/card-diabetes.svg" width="200%" alt="Decision-tree classification and SHAP feature contribution chart">
 
 **Diabetes Risk Predictor** <sub>— AI · Data · Explainable ML</sub>
 
