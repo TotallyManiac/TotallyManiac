@@ -1,12 +1,17 @@
 <div align="center">
 
 <img src="assets/hero.svg" width="100%" alt="Gauri Sharma — Electrical Engineering × Computer Science. Signals, intelligent systems, computer vision, quantum systems.">
-[**Portfolio**](https://totallymaniac.github.io/gauri-portfolio/) &nbsp;·&nbsp; [**Résumé**](https://totallymaniac.github.io/gauri-portfolio/Gauri-Sharma-Resume.pdf) &nbsp;·&nbsp; [**LinkedIn**](https://www.linkedin.com/in/gauri-sharma-6b501325b/) &nbsp;·&nbsp; [**Email**](mailto:gstechland100@gmail.com)
 
 <code>currently exploring → quantum systems</code> <img src="assets/cursor-blink.svg" width="9" height="15" alt="">
 
 </div>
+<br><br>
 
+<div align="right">
+
+[**Portfolio**](https://totallymaniac.github.io/gauri-portfolio/) &nbsp;·&nbsp; [**Résumé**](https://totallymaniac.github.io/gauri-portfolio/Gauri-Sharma-Resume.pdf) &nbsp;·&nbsp; [**LinkedIn**](https://www.linkedin.com/in/gauri-sharma-6b501325b/) &nbsp;·&nbsp; [**Email**](mailto:gstechland100@gmail.com)
+
+<br><br>
 <br>
 
 <img src="assets/cute_mage.gif"
@@ -17,6 +22,8 @@
 <br><br>
 
 <div align="right">
+
+[**Portfolio**](https://totallymaniac.github.io/gauri-portfolio/) &nbsp;·&nbsp; [**Résumé**](https://totallymaniac.github.io/gauri-portfolio/Gauri-Sharma-Resume.pdf) &nbsp;·&nbsp; [**LinkedIn**](https://www.linkedin.com/in/gauri-sharma-6b501325b/) &nbsp;·&nbsp; [**Email**](mailto:gstechland100@gmail.com)
 
 <br><br>
 
