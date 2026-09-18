@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72" width="56" height="56" role="img" aria-label="High-speed fan diagnostics waveform">
+  <circle cx="36" cy="36" r="33" fill="#160E17" stroke="#4D3450" stroke-width="1"/>
+  <path d="M16,36 L23,36 L27,22 L33,50 L39,26 L44,44 L48,36 L56,36"
+        fill="none" stroke="#7A2438" stroke-width="1.3" stroke-linejoin="round" stroke-linecap="round"/>
+</svg>

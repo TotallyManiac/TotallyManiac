@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 155" width="380" height="155" role="img" aria-label="Microscopy cells with one segmentation contour highlighted">
+  <defs>
+    <linearGradient id="cBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1C1A1F"/>
+      <stop offset="100%" stop-color="#160E17"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .breathe { transform-box: fill-box; transform-origin: center; animation: breathe 4s ease-in-out infinite; }
+    @keyframes breathe { 0%, 100% { transform: scale(1); opacity: 0.85; } 50% { transform: scale(1.045); opacity: 1; } }
+    @media (prefers-reduced-motion: reduce) {
+      .breathe { animation: none !important; opacity: 0.85; }
+    }
+  </style>
+  <rect width="380" height="155" fill="url(#cBg)"/>
+  <rect x="6" y="6" width="368" height="143" fill="none" stroke="#4D3450" stroke-width="1" opacity="0.4"/>
+
+  <text x="16" y="21" font-family="SFMono-Regular, Menlo, Consolas, monospace" font-size="10" letter-spacing="1.5" fill="#B3A7C7" opacity="0.65">FIG. 03</text>
+  <text x="364" y="141" text-anchor="end" font-family="SFMono-Regular, Menlo, Consolas, monospace" font-size="10" letter-spacing="1.5" fill="#B3A7C7" opacity="0.65">CELL SEGMENTATION</text>
+
+  <!-- unlabelled cells -->
+  <g fill="#4D3450" fill-opacity="0.35" stroke="#B3A7C7" stroke-width="0.8" opacity="0.75">
+    <path d="M52,58 C51,44 63,39 72,38 C82,39 94,45 92,58 C93,69 82,77 72,78 C61,77 53,70 52,58 Z"/>
+    <path d="M215,48 C214,37 225,32 232,31 C241,33 251,38 250,48 C251,58 241,64 232,65 C223,64 216,58 215,48 Z"/>
+    <path d="M274,95 C273,83 284,77 292,76 C302,78 312,84 311,95 C312,106 302,113 292,114 C281,113 275,106 274,95 Z"/>
+    <path d="M319,68 C318,61 325,58 330,57 C336,58 342,61 341,68 C342,75 336,79 330,80 C324,79 320,75 319,68 Z"/>
+  </g>
+
+  <!-- the cell under active segmentation -->
+  <path d="M132,95 C130,79 145,72 155,71 C167,73 180,80 178,95 C179,108 167,118 155,120 C142,118 133,109 132,95 Z"
+        fill="#5C1F28" fill-opacity="0.32" stroke="#C98FA0" stroke-width="0.9" opacity="0.85"/>
+  <path class="breathe" d="M124,95 C122,75 140,64 155,63 C170,66 187,74 184,95 C186,112 170,126 155,128 C138,126 126,113 124,95 Z"
+        fill="none" stroke="#7A2438" stroke-width="1.1" stroke-dasharray="3,3"/>
+
+  <!-- annotation handles: human-in-the-loop editing -->
+  <g stroke="#B3A7C7" stroke-width="1.1" opacity="0.8">
+    <path d="M122,73 L122,63 L132,63" fill="none"/>
+    <path d="M177,63 L187,63 L187,73" fill="none"/>
+    <path d="M122,118 L122,128 L132,128" fill="none"/>
+    <path d="M177,128 L187,128 L187,118" fill="none"/>
+  </g>
+</svg>
